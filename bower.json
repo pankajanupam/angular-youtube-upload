@@ -1,24 +1,33 @@
 {
-  "name": "angular-youtube-upload",
-  "homepage": "https://pankajanupam.github.io/angular-youtube-upload/",
-  "authors": [
-    "Pankaj Anupam <info@pankajanupam.in>"
-  ],
-  "description": "This is a angular directive to upload file / blob to youtube channel",
-  "main": "",
-  "keywords": [
-    "ng-youtube-upload",
-    "youtube-upload",
-    "angular",
-    "youtube",
-    "upload"
-  ],
-  "license": "GPL3",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+    "name": "angular-youtube-upload",
+    "homepage": "https://pankajanupam.github.io/angular-youtube-upload/",
+    "authors": [
+        "Pankaj Anupam <info@pankajanupam.in>"
+    ],
+    "description": "This is a angular directive to upload file / blob to youtube channel",
+    "main": "",
+    "keywords": [
+        "ng-youtube-upload",
+        "youtube-upload",
+        "angular",
+        "youtube",
+        "upload"
+    ],
+    "license": "GPL3",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests",
+        "src",
+        ".bowerrc",
+        ".gitignore",
+        ".jshintignore",
+        ".jshintrc",
+        "bower.json",
+        "gruntfile.js",
+        "package.json",
+        "README.md"
+    ]
 }
