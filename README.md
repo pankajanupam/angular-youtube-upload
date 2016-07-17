@@ -29,7 +29,7 @@ angular.module('myApp', ['ngpYoutubeUpload']);
 
 Simply use the directive in a template. 
 ```html
-        <div angular-youtube-upload access-token="VALID ACCESS TOKEN" data-video-title="{{name}}" data-video-desc="{{desc}}" > </div>
+<div angular-youtube-upload access-token="VALID ACCESS TOKEN" data-video-title="{{name}}" data-video-desc="{{desc}}" ></div>
 ```
 
 ## License
